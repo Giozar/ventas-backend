@@ -1,0 +1,487 @@
+[
+  {
+    "branch": "Sucursal 1",
+    "clientName": "andres",
+    "clientPhone": "4466446",
+    "clientAddress": "lo que sea",
+    "products": [
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      },
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-10T22:20:22.638Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "andres",
+    "clientPhone": "4466446",
+    "clientAddress": "lo que sea",
+    "products": [
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      },
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-10T22:20:26.700Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "andres",
+    "clientPhone": "4466446",
+    "clientAddress": "lo que sea",
+    "products": [
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      },
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-10T22:20:29.158Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "andres",
+    "clientPhone": "4466446",
+    "clientAddress": "lo que sea",
+    "products": [
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      },
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-10T22:20:29.644Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "andres",
+    "clientPhone": "4466446",
+    "clientAddress": "lo que sea",
+    "products": [
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      },
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-10T22:20:29.828Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "andres",
+    "clientPhone": "4466446",
+    "clientAddress": "lo que sea",
+    "products": [
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      },
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-10T22:20:29.980Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "fss",
+    "clientPhone": "fsdf",
+    "clientAddress": "sffsd",
+    "products": [
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      },
+      {
+        "name": "Producto X",
+        "cost": 100,
+        "quantity": 1
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-10T22:21:43.454Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "",
+    "clientPhone": "",
+    "clientAddress": "",
+    "products": [],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T04:35:45.046Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "fdgfg",
+    "clientPhone": "dgd",
+    "clientAddress": "dg",
+    "products": [
+      {
+        "id": 0,
+        "name": "Familia1",
+        "quantity": 35,
+        "cost": 3530
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T06:34:10.319Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "Manuel",
+    "clientPhone": "323",
+    "clientAddress": "232",
+    "products": [
+      {
+        "id": "product_1728715583612_7655",
+        "name": "productoA",
+        "quantity": 1,
+        "cost": 200
+      },
+      {
+        "id": "product_1728715593299_3019",
+        "name": "ProductoB",
+        "quantity": 1,
+        "cost": 233
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T06:47:24.185Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "Manuel",
+    "clientPhone": "323",
+    "clientAddress": "232",
+    "products": [
+      {
+        "id": "product_1728715583612_7655",
+        "name": "productoA",
+        "quantity": 1,
+        "cost": 200
+      },
+      {
+        "id": "product_1728715593299_3019",
+        "name": "ProductoB",
+        "quantity": 1,
+        "cost": 233
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T06:50:20.166Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "juan",
+    "clientPhone": "2323",
+    "clientAddress": "sff",
+    "products": [
+      {
+        "id": "product_1728715583612_7655",
+        "name": "productoA",
+        "quantity": 1,
+        "cost": 200
+      },
+      {
+        "id": "product_1728715593299_3019",
+        "name": "ProductoB",
+        "quantity": 1,
+        "cost": 233
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T06:51:10.304Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "sfsdf",
+    "clientPhone": "sfsd",
+    "clientAddress": "sfsd",
+    "products": [
+      {
+        "id": "product_1728715885268_3743",
+        "name": "sfsdfs",
+        "quantity": 3,
+        "cost": 23
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T06:52:00.999Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "dfgd",
+    "clientPhone": "gddg",
+    "clientAddress": "dgd",
+    "products": [
+      {
+        "id": "product_1728715593299_3019",
+        "name": "ProductoB",
+        "quantity": 1,
+        "cost": 233
+      },
+      {
+        "id": "product_1728715885268_3743",
+        "name": "sfsdfs",
+        "quantity": 3,
+        "cost": 23
+      },
+      {
+        "id": "product_1728715583612_7655",
+        "name": "productoA",
+        "quantity": 1,
+        "cost": 200
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T06:52:59.353Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "",
+    "clientPhone": "",
+    "clientAddress": "",
+    "products": [
+      {
+        "id": "product_1728715885268_3743",
+        "name": "sfsdfs",
+        "quantity": 2,
+        "cost": 23
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T06:53:51.054Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "dfsfd",
+    "clientPhone": "sfsf",
+    "clientAddress": "sffd",
+    "products": [
+      {
+        "id": "product_1728715583612_7655",
+        "name": "productoA",
+        "quantity": 1,
+        "cost": 200
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T06:54:35.916Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "",
+    "clientPhone": "",
+    "clientAddress": "",
+    "products": [
+      {
+        "id": "product_1728715583612_7655",
+        "name": "productoA",
+        "quantity": 1,
+        "cost": 200
+      },
+      {
+        "id": "product_1728715593299_3019",
+        "name": "ProductoB",
+        "quantity": 1,
+        "cost": 233
+      },
+      {
+        "id": "product_1728715885268_3743",
+        "name": "sfsdfs",
+        "quantity": 1,
+        "cost": 23
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T06:55:30.512Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "dfgdg",
+    "clientPhone": "dfgdfg",
+    "clientAddress": "dggf",
+    "products": [
+      {
+        "id": "product_1728715583612_7655",
+        "name": "productoA",
+        "quantity": 1,
+        "cost": 200
+      },
+      {
+        "id": "product_1728715593299_3019",
+        "name": "ProductoB",
+        "quantity": 1,
+        "cost": 233
+      },
+      {
+        "id": "product_1728715885268_3743",
+        "name": "sfsdfs",
+        "quantity": 1,
+        "cost": 23
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T06:56:59.815Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "sdfsf",
+    "clientPhone": "fsf",
+    "clientAddress": "sff",
+    "products": [
+      {
+        "id": "product_1728715583612_7655",
+        "name": "productoA",
+        "quantity": 1,
+        "cost": 200
+      },
+      {
+        "id": "product_1728715593299_3019",
+        "name": "ProductoB",
+        "quantity": 1,
+        "cost": 233
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T06:57:52.722Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "fsdds",
+    "clientPhone": "sff",
+    "clientAddress": "fsdf",
+    "products": [
+      {
+        "id": "product_1728715583612_7655",
+        "name": "productoA",
+        "quantity": 1,
+        "cost": 200
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T06:58:46.961Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "fd",
+    "clientPhone": "fgdgdfg",
+    "clientAddress": "dgdg",
+    "products": [
+      {
+        "id": "product_1728716422007_9999",
+        "name": "bcvvcb",
+        "quantity": 7,
+        "cost": 12
+      },
+      {
+        "id": "product_1728716412322_9276",
+        "name": "vbbbc",
+        "quantity": 5,
+        "cost": 4554
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T07:01:03.188Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "",
+    "clientPhone": "",
+    "clientAddress": "",
+    "products": [
+      {
+        "id": "product_1728717983154_2380",
+        "name": "ProductoA",
+        "quantity": 20,
+        "cost": 300
+      },
+      {
+        "id": "product_1728718012070_4691",
+        "name": "ProductoC",
+        "quantity": 1,
+        "cost": 250
+      },
+      {
+        "id": "product_1728718158291_7153",
+        "name": "ProductoB",
+        "quantity": 2,
+        "cost": 645
+      },
+      {
+        "id": "product_1728718243768_5015",
+        "name": "productoD",
+        "quantity": 1,
+        "cost": 845
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T07:44:48.176Z"
+  },
+  {
+    "branch": "Sucursal 1",
+    "clientName": "dfg",
+    "clientPhone": "dfg",
+    "clientAddress": "dgf",
+    "products": [
+      {
+        "id": "product_1728718012070_4691",
+        "name": "ProductoC",
+        "quantity": 9,
+        "cost": 250
+      },
+      {
+        "id": "product_1728718158291_7153",
+        "name": "ProductoB",
+        "quantity": 13,
+        "cost": 645
+      },
+      {
+        "id": "product_1728718243768_5015",
+        "name": "productoD",
+        "quantity": 19,
+        "cost": 845
+      }
+    ],
+    "paymentMethod": "efectivo",
+    "date": "2024-10-12T08:37:04.845Z"
+  }
+]

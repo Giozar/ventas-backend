@@ -1,0 +1,26 @@
+[
+  {
+    "id": "product_1728717983154_2380",
+    "name": "ProductoA",
+    "quantity": 20,
+    "cost": 300
+  },
+  {
+    "id": "product_1728718012070_4691",
+    "name": "ProductoC",
+    "quantity": 45,
+    "cost": 250
+  },
+  {
+    "id": "product_1728718158291_7153",
+    "name": "ProductoB",
+    "quantity": 345,
+    "cost": 645
+  },
+  {
+    "id": "product_1728718243768_5015",
+    "name": "productoD",
+    "quantity": 120,
+    "cost": 845
+  }
+]
